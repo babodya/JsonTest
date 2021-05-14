@@ -1,0 +1,107 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'ko' Physical Memory: 16315 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/DMC CONET/Downloads/JsonTest
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55688
+Successfully changed project path to: C:/Users/DMC CONET/Downloads/JsonTest
+C:/Users/DMC CONET/Downloads/JsonTest
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/DMC CONET/Downloads/JsonTest/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56748
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001301 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.387 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001404 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.701 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1124 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.0 MB.
+System memory in use after: 60.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 1.516100 ms (FindLiveObjects: 0.143700 ms CreateObjectMapping: 0.037600 ms MarkObjects: 1.267400 ms  DeleteObjects: 0.066500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/LoadImageTest.cs
+  artifactKey: Guid(ebf7e70d3fa72704b9bab75c36cd29b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LoadImageTest.cs using Guid(ebf7e70d3fa72704b9bab75c36cd29b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd3dff03abb5f5d4c757861e29954d7') in 0.016375 seconds
+  Import took 0.018014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 942.081134 seconds.
+  path: Assets/SaveImageFormatTest.cs
+  artifactKey: Guid(002dc15e17a879c448cbc9b3d3cf5fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SaveImageFormatTest.cs using Guid(002dc15e17a879c448cbc9b3d3cf5fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f68c697706cbb4737c8f97f42e0bb27') in 0.009494 seconds
+  Import took 0.011741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.434902 seconds.
+  path: Assets/SaveImageTest.cs
+  artifactKey: Guid(a528198b24e77df4ab0431e0fefe96f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SaveImageTest.cs using Guid(a528198b24e77df4ab0431e0fefe96f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c8fe0c960315a0306a4515b6ff599f') in 0.007035 seconds
+  Import took 0.009355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.998607 seconds.
+  path: Assets/SaveTest.cs
+  artifactKey: Guid(56eb54a6e91e7d9449a9b75efd001a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SaveTest.cs using Guid(56eb54a6e91e7d9449a9b75efd001a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9e116e4cb6346e90a5e638123fba48') in 0.006219 seconds
+  Import took 0.008150 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
